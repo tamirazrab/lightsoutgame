@@ -1,7 +1,7 @@
 # Light Out Game
 Small little game.
 
-!(https://i.ibb.co/zJTmSKb/Screenshot-2020-11-23-React-App.png  )
+![Light out Image](https://i.ibb.co/zJTmSKb/Screenshot-2020-11-23-React-App.png  )
 ## Thing's left to do
 * Refactor Code a bit
 * Add time taken to complete game.
